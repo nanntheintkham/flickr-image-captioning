@@ -38,3 +38,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Local helper scripts (not part of the project)
+PUSH_TO_GITHUB.bat
